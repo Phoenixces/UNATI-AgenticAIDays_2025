@@ -1,0 +1,11 @@
+requests
+geopy
+pillow
+google-generativeai
+numpy
+google-adk
+ipython
+vertexai
+fastapi
+uvicorn
+pydantic
