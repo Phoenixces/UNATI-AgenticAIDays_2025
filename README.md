@@ -1,4 +1,4 @@
-# 🌾 UNATI: Unified Agent for Agricultural Intelligence
+# 🌾 UNATI: User-Centric Nextgen Agri Tech Intelligence
 
 **UNATI** is an autonomous, AI-powered multi-agent system designed to support Indian farmers with hyperlocal agricultural insights. It integrates **voice**, **vision**, and **text-based** interactions in native languages (e.g., Kannada) to make farming smarter, sustainable, and scalable.
 
